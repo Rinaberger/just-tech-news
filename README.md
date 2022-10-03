@@ -1,4 +1,3 @@
 # just-tech-news
 
-Author: Scott Rinaberger 
-git add   
+Author: Scott Rinaberger
